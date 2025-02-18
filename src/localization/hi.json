@@ -1,0 +1,10 @@
+{
+    "SelectLanguage": {
+        "label_select_language": "Select Language",
+        "label_please_select_language": "Please select language you would like to use while running Hajj Hub",
+        "message_select_language": "Please select language"
+    },
+    "Label": {
+        "loginTitle" : "आपको दुबारा देख कर खुशी हुई!"
+    }
+}
